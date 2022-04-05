@@ -1,0 +1,13 @@
+total 44
+drwxr-xr-x 2 befiker befiker 4096 Apr  5 20:05 .
+drwxr-xr-x 4 befiker befiker 4096 Apr  5 17:57 ..
+-rwxr-xr-x 1 befiker befiker   32 Apr  5 17:57 0-hello_world
+-rwxr-xr-x 1 befiker befiker   40 Apr  5 17:57 1-confused_smiley
+-rwxr-xr-x 1 befiker befiker   28 Apr  5 17:57 2-hellofile
+-rwxr-xr-x 1 befiker befiker   39 Apr  5 17:57 3-twofiles
+-rwxr-xr-x 1 befiker befiker   29 Apr  5 17:57 4-lastlines
+-rwxr-xr-x 1 befiker befiker   29 Apr  5 17:57 5-firstlines
+-rwxr-xr-x 1 befiker befiker   83 Apr  5 19:17 7-file
+-rwxr-xr-x 1 befiker befiker   36 Apr  5 20:05 8-cwd_state
+-rw-r--r-- 1 befiker befiker  157 Apr  5 17:57 README.md
+-rw-r--r-- 1 befiker befiker    0 Apr  5 20:05 ls_cwd_content
