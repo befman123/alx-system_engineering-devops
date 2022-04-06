@@ -1,2 +1,2 @@
 #!/bin/bash
-id | cut -d " " -f 1 | cut -d "(" -f 2 | cut -d ")" -f 1 | xargs echo Hello
+id | cut -d " " -f 1 | cut -d "(" -f 2 | cut -d ")" -f 1 | xargs echo hello
