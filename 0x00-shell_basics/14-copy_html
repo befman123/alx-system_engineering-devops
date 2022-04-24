@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | grep -E a.html aother.html str.html | xargs cp -u --target-directory=..
+ls | grep -E "*.html" | xargs cp -u --target-directory=..
