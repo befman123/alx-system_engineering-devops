@@ -1,0 +1,2 @@
+#!/bin/bash
+ls | grep '^[A-z]' | xargs mv --target-directory='/tmp/u'
