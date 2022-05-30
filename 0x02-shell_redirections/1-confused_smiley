@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e '('"\xc3"0')'"\x27"
+echo -e "\"(\xd4o)'"
