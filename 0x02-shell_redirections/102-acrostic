@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c -1 | tr "\n" "\0" | fmt
+cut -c -1 | fmt | tr -d " "
